@@ -1,3 +1,9 @@
+# This repo is a fork of [Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
+
+We modified it slightly to make the import into other python files easier. First install all requirements as needed. Then you can install this packages locally as a pip module via 
+
+```pip install .```
+
 # Pytorch Implementation of PointNet and PointNet++ 
 
 This repo is implementation for [PointNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) and [PointNet++](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf) in pytorch.
